@@ -5,7 +5,7 @@ Repositório feito com a intenção de armazenar resumo das aulas de versionamen
 
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/doc/)
-- [Documentação Github] (https://docs.github.com/)
+- [Documentação Github](https://docs.github.com/)
 
 ## 💻 Notas referente as aulas
 
