@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"jogoAdivinhacao","h":"class jogoAdivinhacao","d":"Section","u":"jogoAdivinhacao.html#jogoadivinhacao-heading"}];updateSearchResults();
