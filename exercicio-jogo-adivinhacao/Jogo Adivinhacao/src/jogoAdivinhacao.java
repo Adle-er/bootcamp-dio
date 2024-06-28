@@ -21,6 +21,11 @@ public class jogoAdivinhacao {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         Random random = new Random ();
 
+        System.out.println("O objetivo deste jogo é que você adivinhe o número que o computador escolheu.");
+
+        System.out.println("Dica 01: O núnmero vai de 0 a 100.");
+        System.out.println("Dica 02: Se vira.");
+
         int numeroAdivinhacao = random.nextInt(101);
 
         System.out.println("Digite o número que você acredite ser:");
